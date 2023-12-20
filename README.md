@@ -1,2 +1,2 @@
 # tracey
-Log, Track and Reflect on you Developer Journey
+Log, Track and Reflect on your Developer Journey
